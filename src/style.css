@@ -1,0 +1,38 @@
+body {
+	width:100%;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+.tag {
+	text-align: center;
+}
+
+.slick-slide img {
+	margin: auto;
+	width: 50%;
+	height: 50%;
+}
+.btn{
+	color:red;
+	width:30px;
+	height:30px;
+	position:relative;
+	border:none;
+	border-radius:20px;
+	cursor:pointer;
+	left:90%;
+}
+.btn:hover{
+	background-color:#f3f3f3;
+}
+ .btn-left{
+	margin-right:5px;
+}
+
+	.imgslider{
+		left:2.5%;
+		position: relative;
+	}
+
